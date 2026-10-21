@@ -1,0 +1,11 @@
+{
+  "display_name": "角色卡与世界书联动删除",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "ChatGPT",
+  "version": "1.3.0",
+  "auto_update": false
+}
